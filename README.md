@@ -7,6 +7,8 @@ Apaixonado por tecnologia e inovação
 Sempre em busca de novos desafios e oportunidades de aprendizado
 
 # Habilidades
+
+- Golang
 - Java
 - Spring Framework
 - Hibernate
