@@ -12,6 +12,7 @@ Sempre em busca de novos desafios e oportunidades de aprendizado
 # Habilidades
 
 - <img height="32" width="32" src="https://img.icons8.com/color/256/golang.png" /> Golang
+- <img height="32" width="32" src="https://img.icons8.com/color/256/python--v1.png" /> Python
 - <img height="32" width="32" src="https://img.icons8.com/color/256/java-coffee-cup-logo.png" /> Java
 - <img height="32" width="32" src="https://img.icons8.com/color/256/spring-logo.png" /> Spring Framework
 - <img height="32" width="32" src="https://avatars.githubusercontent.com/u/348262?s=200&v=4" /> Hibernate
