@@ -1,17 +1,17 @@
-<table style="border-style:hidden;">
-<tr>
-    <td width="50%">
+<div style="width: 100%;">
+    <div style="width: 45%; float: left; padding-right: 10px">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=avelinobego&show_icons=true&theme=dracula"/>
     </a>
-    </td>
-    <td width="50%">
+    </div>
+    <div style="width: 50%; float: left;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avelinobego&hide_progress=true&theme=dracula"/>
     </a>
-    </td>
-</tr>
-</table>
+    </div>
+</div>
+
+<p style="clear:both;"></p>
 
 # Sobre mim
 Olá! Eu sou Avelino Bego, um desenvolvedor com mais de 30 anos de experiência no mercado. Meu foco principal é Java, no qual trabalho há mais de 20 anos.
