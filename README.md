@@ -1,4 +1,4 @@
-<table style="border:none;">
+<table style="border-style:hidden;">
 <tr>
     <td width="50%">
     <a href="https://github.com/anuraghazra/github-readme-stats">
