@@ -1,6 +1,3 @@
-
-[![Estatisticas](https://github-readme-stats.vercel.app/api?username=avelinobego&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=avelinobego&hide_progress=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 [![linkedin.com/in/avelinobego](https://img.shields.io/badge/Linkedin-Avelino%20Bego-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/avelinobego/) &nbsp;&nbsp;&nbsp;&nbsp;[![avelino.bego@gmail.com](https://img.shields.io/badge/GMail-Avelino%20Bego-orange?style=for-the-badge&logo=gmail)](mailto:avelino.bego@gmail.com)
 
 
