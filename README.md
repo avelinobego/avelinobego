@@ -2,11 +2,9 @@
 
 
 # Sobre mim
-Olá! Eu sou Avelino Bego, um desenvolvedor com mais de 30 anos de experiência no mercado. Meu foco principal é Java, no qual trabalho há mais de 20 anos.
+Avelino Bego
 
-Desenvolvedor Java há mais de 20 anos
-Apaixonado por tecnologia e inovação
-Sempre em busca de novos desafios e oportunidades de aprendizado
+Com 30 anos de experiência na área de programação, sou um profissional dedicado e apaixonado por desenvolver soluções inovadoras. Ao longo da minha carreira, tenho adquirido expertise em diversas tecnologias e frameworks. Busco constantemente aprimorar minhas habilidades e contribuir para projetos de sucesso. Let's code together!
 
 # Habilidades
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=%2317202A) 
