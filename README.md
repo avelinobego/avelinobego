@@ -1,11 +1,6 @@
 [![linkedin.com/in/avelinobego](https://img.shields.io/badge/Linkedin-Avelino%20Bego-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/avelinobego/) &nbsp;&nbsp;&nbsp;&nbsp;[![avelino.bego@gmail.com](https://img.shields.io/badge/GMail-Avelino%20Bego-orange?style=for-the-badge&logo=gmail)](mailto:avelino.bego@gmail.com)
 
 
-# Sobre mim
-Avelino Bego
-
-Com 30 anos de experiência na área de programação, sou um profissional dedicado e apaixonado por desenvolver soluções inovadoras. Ao longo da minha carreira, tenho adquirido expertise em diversas tecnologias e frameworks. Busco constantemente aprimorar minhas habilidades e contribuir para projetos de sucesso. Let's code together!
-
 # Habilidades
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=%2317202A) 
 ![Rust](https://img.shields.io/badge/rust-%2523000000.svg?style=for-the-badge&logo=rust&logoColor=%2317202A&labelColor=%23D35400&color=%23D35400)
