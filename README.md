@@ -14,8 +14,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Fedora](https://img.shields.io/badge/fedora-linux?style=for-the-badge&logo=fedora&label=linux&labelColor=%231b4f72)
 ![Arch](https://img.shields.io/badge/arch-linux?style=for-the-badge&logo=archlinux&label=linux&labelColor=%231b4f72)
-
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Static Badge](https://img.shields.io/badge/windows-11?style=for-the-badge&logo=mswindows&label=microsoft&color=%23d68910%20)
 ![Docker](https://img.shields.io/badge/docker-container?style=for-the-badge&logo=docker&labelColor=%231b4f72)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
