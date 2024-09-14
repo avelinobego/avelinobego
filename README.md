@@ -12,7 +12,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=arch&logoColor=white)
+![Fedora](https://img.shields.io/badge/fedora-linux?style=for-the-badge&logo=fedora&label=linux&labelColor=%231b4f72)
 ![Arch](https://img.shields.io/badge/arch-linux?style=for-the-badge&logo=archlinux&label=linux&labelColor=%231b4f72)
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
