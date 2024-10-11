@@ -2,8 +2,7 @@
 
 ```Bash
 $ git commit -m "chore: desenvolvedor com 30 anos de experiência.
-Ao longo da minha carreira,
-trabalhei com diversas tecnologias incluindo Java, Go, e Rust,
+Ao longo da minha carreira, trabalhei com diversas tecnologias incluindo Java, Go, e Rust,
 além de ter domínio em cloud platforms como Google Cloud, AWS e Azure."
 ```
 
